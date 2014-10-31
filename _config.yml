@@ -1,0 +1,10 @@
+highlighter: pygments
+github: [Repository metadata]
+
+defaults:
+  -
+    scope:
+      path: "_posts/"
+      type: "posts"
+    values:
+      layout: "posts"
