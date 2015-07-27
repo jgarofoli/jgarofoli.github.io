@@ -1,71 +1,54 @@
-<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="chrome=1">
-        <title>jgarofoli@github</title>
+---
+layout: default
+title: "jgarofoli@github"
+---
+<section>
+<h3>
+    <a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Recent News</h3>
+<p>
+<ul>
+    {% for post in site.posts %}
+    <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
+</p>
+</section>
 
-        <link rel="stylesheet" href="stylesheets/styles.css">
-        <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-        <!--[if lt IE 9]>
-        <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-    </head>
-    <body>
-        <div class="wrapper">
-            <header>
-            <img style="border-radius:8px;" height="230" src="https://avatars0.githubusercontent.com/u/1741203?v=3&s=460">
-            <h1>Justin Garofoli<br/>
-                jgarofoli@github</h1>
-            <p></p>
+<section style="padding-top: 15%;">
+<h3>
+    <a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Recent Projects</h3>
 
+<div class="section">
+    <p><a href="http://github.com/jgarofoli/LCLS-data-summary"><b>LCLS-data-summary</b></a> [primary author]<br/>
+    Break out project from LCLS-psana-examples.  More info to come.
+    </p>
+</div>
 
-            <p class="view"><a href="https://github.com/jgarofoli">View My GitHub Profile</a></p>
+<div class="section">
+<p><a href="https://github.com/jgarofoli/LCLS-psana-examples"><b>LCLS-psana-examples</b></a> [primary author]<br/>
+Some scripts and tools that I wrote while at 
+<a href="https://portal.slac.stanford.edu/sites/lcls_public/instruments/cxi/Pages/default.aspx">CXI</a>, one of the user 
+facilities on the <a href="https://www6.slac.stanford.edu/">Stanford Linear ACcelerator</a> 
+<a href="https://portal.slac.stanford.edu/sites/lcls_public/Pages/Default.aspx">LCLS</a> beam line.
+</p>
 
-            </header>
-            <section>
-            <h3>
-                <a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Recent Projects</h3>
+<p>Some of the the libraries that are used in this are: 
+<a href="http://www.open-mpi.org/">MPI</a>, 
+<a href="http://www.pyqtgraph.org/">PyQtGraph</a>, 
+<a href="http://zeromq.org/">zmq</a>, 
+<a href="https://confluence.slac.stanford.edu/display/PSDM/psana+-+Python+Script+Analysis+Manual">psana</a>, 
+<a href="https://root.cern.ch/drupal/">ROOT</a>, 
+<a href="http://getbootstrap.com/">Bootstrap</a>, 
+<a href="http://jquery.com/">jQuery</a>, 
+and more.
+</p>
+</div>
 
-            <div class="section">
-                <p><a href="http://github.com/jgarofoli/LCLS-data-summary"><b>LCLS-data-summary</b></a> [primary author]<br/>
-                Break out project from LCLS-psana-examples.  More info to come.
-                </p>
-            </div>
-
-            <div class="section">
-            <p><a href="https://github.com/jgarofoli/LCLS-psana-examples"><b>LCLS-psana-examples</b></a> [primary author]<br/>
-            Some scripts and tools that I wrote while at 
-            <a href="https://portal.slac.stanford.edu/sites/lcls_public/instruments/cxi/Pages/default.aspx">CXI</a>, one of the user 
-            facilities on the <a href="https://www6.slac.stanford.edu/">Stanford Linear ACcelerator</a> 
-            <a href="https://portal.slac.stanford.edu/sites/lcls_public/Pages/Default.aspx">LCLS</a> beam line.
-            </p>
-
-            <p>Some of the the libraries that are used in this are: 
-            <a href="http://www.open-mpi.org/">MPI</a>, 
-            <a href="http://www.pyqtgraph.org/">PyQtGraph</a>, 
-            <a href="http://zeromq.org/">zmq</a>, 
-            <a href="https://confluence.slac.stanford.edu/display/PSDM/psana+-+Python+Script+Analysis+Manual">psana</a>, 
-            <a href="https://root.cern.ch/drupal/">ROOT</a>, 
-            <a href="http://getbootstrap.com/">Bootstrap</a>, 
-            <a href="http://jquery.com/">jQuery</a>, 
-            and more.
-            </p>
-            </div>
-
-            <div class="section">
-            <p><a href="https://github.com/jgarofoli/dissertation"><b>DISSERTATION</b></a><br/>
-            LaTeX skeleton that I developed and used for my PhD disseratation.
-            </p>
-            </div>
-
-            </section>
-            <footer>
-            <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-            </footer>
-        </div>
-        <script src="javascripts/scale.fix.js"></script>
-
-    </body>
-</html>
+<div class="section">
+<p><a href="https://github.com/jgarofoli/dissertation"><b>DISSERTATION</b></a><br/>
+LaTeX skeleton that I developed and used for my PhD disseratation.
+</p>
+</div>
+</section>
