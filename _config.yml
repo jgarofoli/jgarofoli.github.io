@@ -8,3 +8,9 @@ defaults:
       type: "posts"
     values:
       layout: "posts"
+
+port: 4444
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "fenced_code_blocks"]
