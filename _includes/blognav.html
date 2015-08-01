@@ -1,0 +1,19 @@
+{% if page.shownav == true %}
+<p style="width:40%;text-align:center;">
+NAVIGATE<br/>
+<span style="float:left;">
+{% if page.previous != nil %}
+<a href="{{page.previous.url}}">PREV</a>
+{% else %}
+Begin
+{% endif %}
+</span>
+<span style="float:right;">
+{% if page.next != nil %}
+<a href="{{page.next.url}}">NEXT</a>
+{% else %}
+End
+{% endif %}
+</span>
+</p>
+{% endif %}

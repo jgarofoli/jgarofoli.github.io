@@ -3,13 +3,14 @@ title: Recent notes
 layout: default
 ---
 
-# {{ page.title }}
+### {{ page.title }}
 
 <p>
-<ul>
+<ul style="list-style-type:none;">
     {% for post in site.posts %}
     <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+    {{ post.original_date }}:  <a href="{{ post.url }}">{{ post.title }}</a><br/>
+
     </li>
     {% endfor %}
 </ul>

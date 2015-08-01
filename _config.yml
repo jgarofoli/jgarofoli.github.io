@@ -4,10 +4,17 @@ github: [Repository metadata]
 defaults:
   -
     scope:
-      path: "_posts/"
+      path: ""
+    values:
+      author: "jgarofoli"
+      shownav: false
+  -
+    scope:
+      path: "" # don't put "_posts/" here
       type: "posts"
     values:
-      layout: "posts"
+      layout: "post"
+      shownav: true
 
 port: 4444
 
