@@ -1,6 +1,10 @@
 highlighter: pygments
 github: [Repository metadata]
 
+name: "jgarofoli@github's notes"
+description: "mostly notes to keep handy"
+url: http://jgarofoli.github.io
+
 defaults:
   -
     scope:
