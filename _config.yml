@@ -8,6 +8,7 @@ defaults:
     values:
       author: "jgarofoli"
       shownav: false
+      includemath: false # set to true when including math
   -
     scope:
       path: "" # don't put "_posts/" here
