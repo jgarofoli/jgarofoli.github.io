@@ -15,6 +15,13 @@ defaults:
     values:
       layout: "post"
       shownav: true
+  -
+    scope:
+      path: "" # don't put "_posts/" here
+      type: "drafts"
+    values:
+      layout: "post"
+      shownav: true
 
 port: 4444
 
