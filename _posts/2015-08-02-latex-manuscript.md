@@ -87,8 +87,13 @@ Some text.
 \end{document}
 ```
 
-Here are sample files: [preamble](/files/preamble.tex),
+Some example files: [preamble](/files/preamble.tex),
 [manuscript](/files/manuscript.tex) and [output](/files/manuscript.pdf).
+The output:
+
+<object data="/files/manuscript.pdf" type="application/pdf" style="width:100%;height:645px;">
+    <embed src="/files/manuscript.pdf" type="application/pdf" />
+</object>
 
 [This stackexchange answer](http://tex.stackexchange.com/a/95793)
 was helpful.

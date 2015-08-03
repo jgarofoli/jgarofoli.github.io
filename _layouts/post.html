@@ -7,7 +7,7 @@ layout: default
 <h5 style="margin:0; padding:1.5em 0;">by: {{ page.author }}</h5>
 <p>
 date: {{page.original_date}}{% if page.revised_date %}, revised: {{page.revised_date}}{% endif %}<br/>
-tags: {% for tag in page.tags %}{{tag}}{% if forloop.last == false %}, {% endif %}{% endfor %}
+tags: {% for tag in page.tags %}<tag>{{tag}}</tag>{% endfor %}
 </p>
 </div>
 <div style="text-align:justify;">
