@@ -7,6 +7,7 @@ reviseddate: 2015-08-15
 changelog: |
     2015-08-15
     - update title
+    - added link about revision selection
 
     2015-08-11
     - spelling corrections
@@ -38,6 +39,7 @@ git rebase -i HEAD^^^
 ```
 
 There are many ways to say "rebase from 3 commits ago".
+Here is the [doc on that](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection).
 This command will give you this screen:
 
 ```
