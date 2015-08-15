@@ -1,6 +1,6 @@
 ---
 title: Some helpful GitHub notes
-original_date: 2015-08-02
+originaldate: 2015-08-02
 tags: ['github', 'git',]
 ---
 Similar to my [vim]({% post_url 2015-07-26-vim-notes %}) 

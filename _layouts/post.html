@@ -4,13 +4,17 @@ layout: default
 <div style="text-align:center;">
 <h1 >{{ page.title }}</h1>
 <h3 style="color:gray;text-align:center;font-style:italic;font-weight:300;margin-top:-1em;margin-bottom:0;">{% if page.subtitle %}{{ page.subtitle }}{% else %}&nbsp;{% endif %}</h3>
-<h5 style="margin:0; padding:1.5em 0;">by: {{ page.author }}</h5>
+<p style="margin:0; padding:1.5em 0;font-size:small;">by: {{ page.author }}</p>
 <p>
-date: {{page.original_date}}{% if page.revised_date %}, revised: {{page.revised_date}}{% endif %}<br/>
-tags: {% for tag in page.tags %}<tag>{{tag}}</tag>{% endfor %}
+date: {{page.originaldate}}{% if page.reviseddate %}, revised: {{page.reviseddate}}{% endif %}<br/>
+tags: {% for tag in page.tags %}<tag>{{tag}}</tag>{% endfor %}<br/>
 </p>
 </div>
 <div style="text-align:justify;">
 {{ content }}
+{% if page.changelog %}
+<h3>Change Log</h3>
+<pre>{{ page.changelog }}</pre>
+{% endif %}
 {% include endmark.html %}
 </div>

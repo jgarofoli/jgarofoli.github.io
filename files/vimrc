@@ -1,0 +1,110 @@
+" syntax highliting
+syntax on
+filetype plugin on
+filetype indent on
+
+" colorscheme
+colorscheme=vividchalk
+set background=dark
+
+" lets just have spaces
+set expandtab
+
+" indenting files, 2 spaces for python
+set smarttab
+set tabstop=2
+set shiftwidth=2
+set softtabstop=2
+set nosmartindent
+set autoindent
+
+" just put test on one line
+set nowrap
+
+" don't prefix commands with vim: or anything else. : is fine
+set modeline
+
+" enable mouse input
+set mouse=a
+
+" keep buffers/files around when they aren't displayed
+set hidden
+" undoes between file closures
+set undofile
+set undoreload=10000
+
+" split in a reasonable way
+set splitbelow
+set splitright
+" easier navigation
+noremap <C-h> <C-w>h
+noremap <C-j> <C-w>j
+noremap <C-k> <C-w>k
+noremap <C-l> <C-w>l
+" Resize splits when the window is resized
+au VimResized * :wincmd =
+
+set autowrite
+set autoread
+" Save when losing focus
+au FocusLost * :silent! wall
+
+" I like me cursor to move freely always
+set virtualedit=all
+" move back around new lines, etc when pressing backspace
+set backspace=indent,eol,start
+" wrap back to the previous/next line on h
+set whichwrap+=<,>,h,l
+
+" Keep the cursor closer to the middle
+set scrolloff=7
+set sidescroll=3
+
+" searching
+set hlsearch
+set incsearch
+set showmatch
+set mat=2 "what does this do?
+" searches in the middle of the screen
+nnoremap n nzzzv
+nnoremap N Nzzzv
+
+" indicate how wide text should be
+set colorcolumn=80
+set showbreak=↪
+set cursorline
+
+" line numbering
+set nu
+
+" show ruler at the bottom of the scren
+set ruler
+" some more rulering stuff here
+
+" fixing my flaws:
+" spelling stuff
+set dictionary=/usr/share/dict/words
+set spellfile=~/.vim/custom-dictionary.utf-8.add,~/.vim-local-dictionary.utf-8.add
+autocmd InsertEnter * setlocal spell
+autocmd InsertLeave * setlocal nospell
+
+" highlite trailing whitespaces
+highlight ExtraWhitespace ctermbg=darkgreen guibg=darkgreen
+" highlight trailing whitespace and spaces after open paren
+match ExtraWhitespace /(\s\p\|\s\+\|"\s\+$\|'\s\+/
+
+" don't search man when accidentally press the search-man button
+set notimeout
+set ttimeout
+set ttimeoutlen=10
+
+" turn off folding
+set nofoldenable
+
+" set syntax highlighting for markdown
+au BufNewFile,BufRead *.markdown,*.mdown,*.mkd,*.mkdn,README.md  setf markdown
+
+" helpers
+" capitalize the previous word ctrl-u after the word in inserter MODE
+inoremap <C-u> <esc>mzgUiw`za
+

@@ -1,7 +1,14 @@
 ---
 title: "Some Vim commands to keep handy"
 tags: vim
-original_date: 2015-08-01
+originaldate: 2015-08-01
+reviseddate: 2015-08-15
+changelog: |
+    2015-08-15
+    - Added navigating help
+
+    2015-08-01
+    - original upload
 ---
 ## Sort a selection
 
@@ -22,4 +29,8 @@ augroup myvimrc
     au BufWritePost .vimrc,_vimrc,vimrc,.gvimrc,_gvimrc,gvimrc so $MYVIMRC | if has('gui_running') | so $MYGVIMRC | endif
 augroup END
 ```
+
+## Navigating the help file
+
+Use `ctrl-]` to follow a link and `ctrl-t` to move back.
 

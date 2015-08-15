@@ -1,19 +1,27 @@
 ---
 layout: post
-title: A git macro # update this 
+title: A git workflow
 tags: ['git', ]
-original_date: 2015-08-10
-#revised_date: 2015-08-11
+originaldate: 2015-08-10
+reviseddate: 2015-08-15
+changelog: |
+    2015-08-15
+    - update title
+
+    2015-08-11
+    - spelling corrections
+
+    2015-08-10
+    - original upload
 ---
 It is intended that this post will also be a living document.  As such the 
 contents will be edited and updated.  A change log will be at the bottom 
 when the first changes occurs.
 
-By "macro" I mean a routine that I find myself doing often.
-
 ## Editing on a thread (a.k.a. rewriting history)
 
 This is one way to do keep changes small and discrete, and non-spaghetti.
+I'm not saying it's the best way, it's just one way.
 
 1. create a small change (a) and commit it.
 1. create another small change (b) and commit it.

@@ -1,8 +1,7 @@
 ---
 title: A nice LaTeX manuscript style
 tags: ['latex','typewriter',]
-original_date: 2015-08-02
-revised_date:
+originaldate: 2015-08-02
 ---
 Sometimes I just want a nice typewriter-like manuscript.
 Save it as `preamble.tex`.
