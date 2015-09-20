@@ -2,14 +2,22 @@
 title: "Some Vim commands to keep handy"
 tags: vim
 originaldate: 2015-08-01
-reviseddate: 2015-08-15
+reviseddate: 2015-09-20
 changelog: |
+    2015-09-20
+    - Added paragraph formatting command
+
     2015-08-15
     - Added navigating help
 
     2015-08-01
     - original upload
 ---
+## Format a paragraph
+
+Just issue the command ```gpip```.  Remember to have ```:setl tw=80``` or
+something similar set first.
+
 ## Sort a selection
 
 Pass the range from visual selection by highlighting it and then pressing
