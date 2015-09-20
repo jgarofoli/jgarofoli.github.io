@@ -15,7 +15,7 @@ changelog: |
 ---
 ## Format a paragraph
 
-Just issue the command ```gpip```.  Remember to have ```:setl tw=80``` or
+Just issue the command ```gqip```.  Remember to have ```:setl tw=80``` or
 something similar set first.
 
 ## Sort a selection
