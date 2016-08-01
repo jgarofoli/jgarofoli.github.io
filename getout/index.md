@@ -11,7 +11,7 @@ Dog friendly outdoor locations around the country.
   * [Beaches](california_beaches.html)
   * [Parks](california_parks.html)
 
-* Nevada
+* [Nevada](nevada.html)
 * Oregon
 * Utah
 * Washington
