@@ -1,4 +1,4 @@
-highlighter: pygments
+highlighter: rouge
 github: [Repository metadata]
 
 name: "jgarofoli@github's notes"
