@@ -14,7 +14,7 @@ See also [California beaches](california_beaches.html).
   * Long Ridge Preserve
   * Pulgas Ridge Preserve
   * Thornwood Preserve
-  * Windy Hill Preserve
+  * [Windy Hill Preserve](ca/windy_hill/)
 * Santa Clara County
   * [Almaden Quicksilver county park](ca/almaden_quicksilver/)
   * [Joseph D. Grant county park](ca/joseph_d_grant/)
