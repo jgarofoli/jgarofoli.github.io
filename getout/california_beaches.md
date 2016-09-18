@@ -49,9 +49,9 @@ Bold red <span style="color: red; font-weight: bold;">No Dogs</span> indicates t
   * Pebble Beach, <span style="color:blue;">p. 148</span>, <span style="color: orange;">p. 153</span>
   * [Bean Hollow state beach](ca/bean_hollow/), <span style="color:blue;">p. 149</span>, <span style="color: orange;">p. 153</span>
 * Santa Cruz County
-  * Greyhound rock access, <span style="color:blue;">p. 159</span>, <span style="color: orange;">p. 163</span>
+  * [Greyhound rock access](ca/greyhound_sc/), <span style="color:blue;">p. 159</span>, <span style="color: orange;">p. 163</span>
   * Davenport landing beach, <span style="color:blue;">p. ???</span>, <span style="color: orange;">p. 163</span>
-  * [Natural bridges state beach](ca/natural_bridges/), <span style="color:blue;">p. 169</span>, [map](https://www.google.com/maps/@36.9704969,-122.1169129,5374m/data=!3m1!1e3), <span style="color: red; font-weight: bold;">No Dogs</span><br/>
+  * [Natural bridges state beach](ca/natural_bridges/), <span style="color:blue;">p. 169</span>, [map](https://www.google.com/maps/place/36%C2%B057'59.8%22N+122%C2%B007'23.3%22W/@36.966619,-122.1253337,644m/data=!3m2!1e3!4b1!4m5!3m4!1s0x0:0x0!8m2!3d36.966619!4d-122.123145), <span style="color: red; font-weight: bold;">No Dogs</span><br/>
     Either 3 mile or 4 mile beach, not sure which, <span style="color: orange;">p. 165</span>
   * Henry Cowell Redwoods state park, <span style="color:blue;">p. 169</span>
   * Mitchell’s cove beach, <span style="color:blue;">p. 170</span>
