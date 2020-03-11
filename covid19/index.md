@@ -1,7 +1,7 @@
---
+---
 title: Covid-19
 layout: default
---
+---
 
 # {{ page.title }}
 
