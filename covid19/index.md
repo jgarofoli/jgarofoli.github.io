@@ -35,6 +35,7 @@ While the author of this chart says it's for organizers, I think that attendees 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For organizers of large events, please consider the following: increases in <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> cases means that soon (if not already), the chances of a positive case amongst a large pool of attendees (with all the consequences thereof) comes with increasing risk. <a href="https://t.co/8W9pE2LY6P">pic.twitter.com/8W9pE2LY6P</a></p>&mdash; Joshua Weitz (@joshuasweitz) <a href="https://twitter.com/joshuasweitz/status/1237556232304508928?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here’s how long the coronavirus can stay in the air and on packages: <br>Plastic and stainless steel: 3 days<br>Cardboard: 1 day<br>Copper: 4 hours<br>Air: 3 hours<a href="https://t.co/JttFPTQ0td">https://t.co/JttFPTQ0td</a></p>&mdash; Katharine Gammon (@kategammon) <a href="https://twitter.com/kategammon/status/1237807183623938049?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Use caution when making predictions
 
@@ -52,5 +53,7 @@ and the thread that the caution is about:
 
 ## Changelog
 
-*  2020-03-11: Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20).
+*  2020-03-11: 
+   *  Added environmental latency info.
+   *  Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20).
 *  2020-03-10: First release.
