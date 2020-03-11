@@ -31,6 +31,8 @@ This is a few things about contagiousness, and predicting the future.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW on coronavirus: many western countries may soon face Italy’s situation<br><br>Case numbers since outbreaks began in several countries have tracked a ~33% daily rise. This is as true for UK, France, Germany as Italy; the latter is simply further down the path <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/xM6wXuMk4n">pic.twitter.com/xM6wXuMk4n</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1237737352879112194?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+[This thread](https://twitter.com/MarkJHandley/status/1237781162153717760) is pretty similar. It's an updated version of the one that I linked to yesterday.
+
 While the author of this chart says it's for organizers, I think that attendees can use the information too.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For organizers of large events, please consider the following: increases in <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> cases means that soon (if not already), the chances of a positive case amongst a large pool of attendees (with all the consequences thereof) comes with increasing risk. <a href="https://t.co/8W9pE2LY6P">pic.twitter.com/8W9pE2LY6P</a></p>&mdash; Joshua Weitz (@joshuasweitz) <a href="https://twitter.com/joshuasweitz/status/1237556232304508928?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
