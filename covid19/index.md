@@ -52,7 +52,5 @@ and the thread that the caution is about:
 
 ## Changelog
 
-<div style="font-family:monospace;white-space:pre;">
-2020-03-11: Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20)
-2020-03-10: First release.
-</div>
+*  2020-03-11: Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20).
+*  2020-03-10: First release.
