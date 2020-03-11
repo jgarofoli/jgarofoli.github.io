@@ -25,11 +25,11 @@ Updated: 2020-03-10
 
 ## Infections
 
-Updated: 2020-03-10
+Updated: 2020-03-11
 
 This is a few things about contagiousness, and predicting the future.
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">This version includes South Korea. They were on the same growth curve til 7 days ago - ahead of Italy. The measures they adopted then (subject to the lead time in measurements) seem effective - still exponential growth, but similar doubling period to Japan now. <a href="https://t.co/CKvgABlQXJ">pic.twitter.com/CKvgABlQXJ</a></p>&mdash; Mark Handley (@MarkJHandley) <a href="https://twitter.com/MarkJHandley/status/1237144386569416712?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW on coronavirus: many western countries may soon face Italy’s situation<br><br>Case numbers since outbreaks began in several countries have tracked a ~33% daily rise. This is as true for UK, France, Germany as Italy; the latter is simply further down the path <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/xM6wXuMk4n">pic.twitter.com/xM6wXuMk4n</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1237737352879112194?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 While the author of this chart says it's for organizers, I think that attendees can use the information too.
 
@@ -52,4 +52,7 @@ and the thread that the caution is about:
 
 ## Changelog
 
+<div style="font-family:monospace;white-space:pre;">
+2020-03-11: Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20)
 2020-03-10: First release.
+</div>
