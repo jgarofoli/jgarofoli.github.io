@@ -7,6 +7,8 @@ layout: default
 
 Relevant information about Covid-19. Note that I am not an epidemiologist, but this info seems more credible than others that I have found.
 
+{:toc}
+
 ## Naming
 
 Updated: 2020-03-10
@@ -31,8 +33,10 @@ While the author of this chart says it's for organizers, I think that attendees 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For organizers of large events, please consider the following: increases in <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> cases means that soon (if not already), the chances of a positive case amongst a large pool of attendees (with all the consequences thereof) comes with increasing risk. <a href="https://t.co/8W9pE2LY6P">pic.twitter.com/8W9pE2LY6P</a></p>&mdash; Joshua Weitz (@joshuasweitz) <a href="https://twitter.com/joshuasweitz/status/1237556232304508928?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Some caution from a scientist in this area.
 
+### Use caution when making predictions
+
+Some caution from a scientist in this area:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This thread on <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> by an engineer is doing serious numbers. It&#39;s projecting millions of <a href="https://twitter.com/hashtag/CoronavirusUSA?src=hash&amp;ref_src=twsrc%5Etfw">#CoronavirusUSA</a> cases, but I&#39;m very concerned it&#39;s a naive &amp; uninformed take that will cause more harm than good. Here&#39;s why these kind of projections are likely poorly advised (1/n) <a href="https://t.co/NyxL0HXGJA">pic.twitter.com/NyxL0HXGJA</a></p>&mdash; Dr. David Robert Grimes (@drg1985) <a href="https://twitter.com/drg1985/status/1236653062225367041?ref_src=twsrc%5Etfw">March 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 and the thread that the caution is about:
