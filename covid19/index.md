@@ -5,9 +5,9 @@ layout: default
 
 # {{ page.title }}
 
-Relevant information about Covid-19. Note that I am not an epidemiologist, but this info seems more credible than others that I have found.
+Updated: 2020-03-10
 
-{:toc}
+Relevant information about Covid-19. Note that I am not an epidemiologist, but this info seems more credible than others that I have found.
 
 ## Naming
 
