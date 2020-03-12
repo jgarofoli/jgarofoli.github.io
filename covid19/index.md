@@ -7,7 +7,12 @@ layout: default
 
 Updated: 2020-03-11
 
-Relevant information about Covid-19. Note that I am not an epidemiologist, but this info seems more credible than others that I have found.
+Relevant information about Covid-19. I am US based. Also note that I am not an epidemiologist, but this info seems more credible than others that I have found.
+
+## Major News Sources
+
+* [NPR](https://www.npr.org/series/812054919/the-coronavirus-crisis)
+* [Washington Post](https://www.washingtonpost.com/coronavirus/?itid=hp__%3A)
 
 ## Naming
 
@@ -60,6 +65,7 @@ and the thread that the caution is about:
 ## Changelog
 
 *  2020-03-11: 
+   *  Added non-paywalled major new sources links at the top.
    *  Added famous US people as detector calculation.
    *  Added environmental latency info.
    *  Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20).
