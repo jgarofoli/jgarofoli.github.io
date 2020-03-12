@@ -5,7 +5,7 @@ layout: default
 
 # {{ page.title }}
 
-Updated: 2020-03-11
+Updated: 2020-03-11 19:45
 
 Relevant information about Covid-19. I am US based. Also note that I am not an epidemiologist, but this info seems more credible than others that I have found.
 
@@ -30,7 +30,7 @@ Updated: 2020-03-10
 
 ## Infections
 
-Updated: 2020-03-11
+Updated: 2020-03-11 19:45
 
 This is a few things about contagiousness, and predicting the future.
 
@@ -41,6 +41,10 @@ This is a few things about contagiousness, and predicting the future.
 Corroborating those numbers (at least an upper limit very far above the numbers in either of the previous threads):
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BackOfTheEnvelopeEpidemiology?src=hash&amp;ref_src=twsrc%5Etfw">#BackOfTheEnvelopeEpidemiology</a> with <a href="https://twitter.com/mlipsitch?ref_src=twsrc%5Etfw">@mlipsitch</a>.<br><br>No one famous has <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> yet.<br><br>Therefore US incidence is below 1 case / 2000 people. <a href="https://t.co/hBF6mZwimX">pic.twitter.com/hBF6mZwimX</a></p>&mdash; Carl T. Bergstrom (@CT_Bergstrom) <a href="https://twitter.com/CT_Bergstrom/status/1237869774782091267?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+**Well that didn't last long.** It was only about 3 hours ago that I added the previous tweet. NBA Basketball player contracted Covid-19:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NBA To Suspend Season Following Tonight&#39;s Games <a href="https://t.co/2PTx2fkLlW">pic.twitter.com/2PTx2fkLlW</a></p>&mdash; NBA (@NBA) <a href="https://twitter.com/NBA/status/1237917831506857989?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 While the author of this chart says it's for organizers, I think that attendees can use the information too.
 
@@ -65,6 +69,7 @@ and the thread that the caution is about:
 ## Changelog
 
 *  2020-03-11: 
+   *  Added famous US person contracting Covid-19.
    *  Added non-paywalled major new sources links at the top.
    *  Added famous US people as detector calculation.
    *  Added environmental latency info.
