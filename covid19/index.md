@@ -5,7 +5,7 @@ layout: default
 
 # {{ page.title }}
 
-Updated: 2020-03-11 19:55
+Updated: 2020-03-11 21:40
 
 Relevant information about Covid-19. I am US based. Also note that I am not an epidemiologist, but this info seems more credible than others that I have found.
 
@@ -15,6 +15,7 @@ Updated: 2020-03-11
 
 * [NPR](https://www.npr.org/series/812054919/the-coronavirus-crisis)
 * [Washington Post](https://www.washingtonpost.com/coronavirus/?itid=hp__%3A)
+* [NY Times](https://nyti.ms/31jGhk2)
 
 ## What should you do?
 
@@ -87,6 +88,7 @@ I don't find the dashboards all that helpful. Really only daily updates on the n
 ## Changelog
 
 *  2020-03-11:
+   *  Added another non-paywalled coverage link.
    *  Added live dashboards, ugh.
    *  Added what should you do section
    *  Added famous US person contracting Covid-19.
