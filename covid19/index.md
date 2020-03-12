@@ -5,14 +5,22 @@ layout: default
 
 # {{ page.title }}
 
-Updated: 2020-03-11 19:45
+Updated: 2020-03-11 19:55
 
 Relevant information about Covid-19. I am US based. Also note that I am not an epidemiologist, but this info seems more credible than others that I have found.
 
 ## Major News Sources
 
+Updated: 2020-03-11
+
 * [NPR](https://www.npr.org/series/812054919/the-coronavirus-crisis)
 * [Washington Post](https://www.washingtonpost.com/coronavirus/?itid=hp__%3A)
+
+## What should you do?
+
+Updated: 2020-03-11
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Timely and relevant protective measures that need to be taken to slow down (i.e., flattening the curve) spread of <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> in our communities. Social distancing is one of those. <a href="https://t.co/KBflaUJDph">https://t.co/KBflaUJDph</a> by <a href="https://twitter.com/HelenBranswell?ref_src=twsrc%5Etfw">@HelenBranswell</a> <a href="https://twitter.com/hashtag/FlattenTheCurve?src=hash&amp;ref_src=twsrc%5Etfw">#FlattenTheCurve</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://t.co/P2r7Iz0Xar">pic.twitter.com/P2r7Iz0Xar</a></p>&mdash; Luc Lalande (路客) (@LucLalande) <a href="https://twitter.com/LucLalande/status/1237705972258344960?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Naming
 
@@ -68,7 +76,8 @@ and the thread that the caution is about:
 
 ## Changelog
 
-*  2020-03-11: 
+*  2020-03-11:
+   *  Added what should you do section
    *  Added famous US person contracting Covid-19.
    *  Added non-paywalled major new sources links at the top.
    *  Added famous US people as detector calculation.
