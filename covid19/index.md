@@ -1,9 +1,10 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-12 14:15 PDT
+reviseddate: 2020-03-12 15:10 PDT
 changelog: |
   2020-03-12
+  - Replaced infection chart. Previous was [this](https://twitter.com/jburnmurdoch/status/1237737352879112194?s=20)
   - Update layout
   2020-03-11
   - Added another non-paywalled coverage link.
@@ -60,11 +61,11 @@ Updated: 2020-03-10
 
 ## Infections
 
-Updated: 2020-03-11 19:45
+Updated: 2020-03-12 15:10
 
 This is a few things about contagiousness, and predicting the future.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW on coronavirus: many western countries may soon face Italy’s situation<br><br>Case numbers since outbreaks began in several countries have tracked a ~33% daily rise. This is as true for UK, France, Germany as Italy; the latter is simply further down the path <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/xM6wXuMk4n">pic.twitter.com/xM6wXuMk4n</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1237737352879112194?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Weekly Chart! Yes, it&#39;s about <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>. <a href="https://twitter.com/lisacrost?ref_src=twsrc%5Etfw">@lisacrost</a> compares doubling times of confirmed coronavirus cases – and explains why everyone is talking about <a href="https://twitter.com/hashtag/FlattenTheCurve?src=hash&amp;ref_src=twsrc%5Etfw">#FlattenTheCurve</a>: <a href="https://t.co/o2f3I94d8o">https://t.co/o2f3I94d8o</a> <a href="https://t.co/4c96o2vUdl">pic.twitter.com/4c96o2vUdl</a></p>&mdash; Datawrapper (@Datawrapper) <a href="https://twitter.com/Datawrapper/status/1238144797099143170?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [This thread](https://twitter.com/MarkJHandley/status/1237781162153717760) is pretty similar. It's an updated version of the one that I linked to yesterday.
 
