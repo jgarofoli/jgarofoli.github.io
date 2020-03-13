@@ -3,10 +3,11 @@ title: Covid-19
 layout: covid
 reviseddate: 2020-03-12 15:10 PDT
 changelog: |
-  2020-03-12
-  - Replaced infection chart. Previous was [this](https://twitter.com/jburnmurdoch/status/1237737352879112194?s=20)
-  - Update layout
-  2020-03-11
+  2020-03-12:
+  - Replaced infection chart. Previous was [this](https://twitter.com/jburnmurdoch/status/1237737352879112194?s=20).
+  - Update layout.
+
+  2020-03-11:
   - Added another non-paywalled coverage link.
   - Added live dashboards, ugh.
   - Added what should you do section
@@ -15,7 +16,8 @@ changelog: |
   - Added famous US people as detector calculation.
   - Added environmental latency info.
   - Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20).
-  2020-03-10
+
+  2020-03-10:
   - First release.
 ---
 

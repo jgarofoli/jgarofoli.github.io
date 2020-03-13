@@ -42,7 +42,7 @@
             <hr>
             {% if page.changelog %}
             <h3>Change Log</h3>
-            <pre>{{ page.changelog }}</pre>
+            {{ page.changelog | markdownify }}
             {% endif %}
 
             </section>
