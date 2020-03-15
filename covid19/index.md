@@ -1,8 +1,11 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-12 15:10 PDT
+reviseddate: 2020-03-14 18:40 PDT
 changelog: |
+  2020-03-14:
+  - Move infection info to separate page, update spread chart to latest, add better formatting.
+
   2020-03-12:
   - Replaced infection chart. Previous was [this](https://twitter.com/jburnmurdoch/status/1237737352879112194?s=20).
   - Update layout.
@@ -63,27 +66,23 @@ Updated: 2020-03-10
 
 ## Infections
 
-Updated: 2020-03-12 15:10
+Updated: 2020-03-14 18:40<br/>
+Additional information and history at <a href="{% link covid19/infections.md %}">infections page</a>.
 
-This is a few things about contagiousness, and predicting the future.
+### Tracking the spread
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New Weekly Chart! Yes, it&#39;s about <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>. <a href="https://twitter.com/lisacrost?ref_src=twsrc%5Etfw">@lisacrost</a> compares doubling times of confirmed coronavirus cases – and explains why everyone is talking about <a href="https://twitter.com/hashtag/FlattenTheCurve?src=hash&amp;ref_src=twsrc%5Etfw">#FlattenTheCurve</a>: <a href="https://t.co/o2f3I94d8o">https://t.co/o2f3I94d8o</a> <a href="https://t.co/4c96o2vUdl">pic.twitter.com/4c96o2vUdl</a></p>&mdash; Datawrapper (@Datawrapper) <a href="https://twitter.com/Datawrapper/status/1238144797099143170?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: today’s update of coronavirus case trajectory tracker introduces some improvements<br><br>• Malaysia is added, and appears on a similar path to Japan<br>• Iran &amp; Italy paths shifted by one day to better reflect when they reached 100 cases<br><br>Live version here: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/sXOBMoAk3Z">pic.twitter.com/sXOBMoAk3Z</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1238822732302815232?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[This thread](https://twitter.com/MarkJHandley/status/1237781162153717760) is pretty similar. It's an updated version of the one that I linked to yesterday.
+### For planning events.
 
-Corroborating those numbers (at least an upper limit very far above the numbers in either of the previous threads):
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BackOfTheEnvelopeEpidemiology?src=hash&amp;ref_src=twsrc%5Etfw">#BackOfTheEnvelopeEpidemiology</a> with <a href="https://twitter.com/mlipsitch?ref_src=twsrc%5Etfw">@mlipsitch</a>.<br><br>No one famous has <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> yet.<br><br>Therefore US incidence is below 1 case / 2000 people. <a href="https://t.co/hBF6mZwimX">pic.twitter.com/hBF6mZwimX</a></p>&mdash; Carl T. Bergstrom (@CT_Bergstrom) <a href="https://twitter.com/CT_Bergstrom/status/1237869774782091267?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-**Well that didn't last long.** It was only about 3 hours ago that I added the previous tweet. NBA Basketball player contracted Covid-19:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NBA To Suspend Season Following Tonight&#39;s Games <a href="https://t.co/2PTx2fkLlW">pic.twitter.com/2PTx2fkLlW</a></p>&mdash; NBA (@NBA) <a href="https://twitter.com/NBA/status/1237917831506857989?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-While the author of this chart says it's for organizers, I think that attendees can use the information too.
+Note that in California, as of 2020-3-13 evening, counties have begun to limit gatherings of 100+ people.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">For organizers of large events, please consider the following: increases in <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> cases means that soon (if not already), the chances of a positive case amongst a large pool of attendees (with all the consequences thereof) comes with increasing risk. <a href="https://t.co/8W9pE2LY6P">pic.twitter.com/8W9pE2LY6P</a></p>&mdash; Joshua Weitz (@joshuasweitz) <a href="https://twitter.com/joshuasweitz/status/1237556232304508928?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Info about staying in the environment
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here’s how long the coronavirus can stay in the air and on packages: <br>Plastic and stainless steel: 3 days<br>Cardboard: 1 day<br>Copper: 4 hours<br>Air: 3 hours<a href="https://t.co/JttFPTQ0td">https://t.co/JttFPTQ0td</a></p>&mdash; Katharine Gammon (@kategammon) <a href="https://twitter.com/kategammon/status/1237807183623938049?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ---
 
