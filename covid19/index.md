@@ -115,6 +115,10 @@ and the thread that the caution is about:
 
 ## Serious research
 
+Updated: 2020-03-15
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">3rd ed of <a href="https://twitter.com/TianHuaiyu?ref_src=twsrc%5Etfw">@TianHuaiyu</a> <a href="https://twitter.com/MOUGK?ref_src=twsrc%5Etfw">@MOUGK</a> <a href="https://twitter.com/EvolveDotZoo?ref_src=twsrc%5Etfw">@EvolveDotZoo</a> et al. <a href="https://twitter.com/hashtag/China?src=hash&amp;ref_src=twsrc%5Etfw">#China</a> national emergency response averted 100,000s of <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> cases during the first 50 days of the epidemic <a href="https://t.co/zG7Q3h55Li">https://t.co/zG7Q3h55Li</a></p>&mdash; christopher dye (@chris0dye) <a href="https://twitter.com/chris0dye/status/1237757268189491206?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">These scientists haven&#39;t slept in weeks as they worked to get this paper out. Such an important and timely contribution to our understanding of <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>.<br><br>Led by a team at <a href="https://twitter.com/NUnetsi?ref_src=twsrc%5Etfw">@NUnetsi</a> incl. <a href="https://twitter.com/alexvespi?ref_src=twsrc%5Etfw">@alexvespi</a> <a href="https://twitter.com/mattk7?ref_src=twsrc%5Etfw">@mattk7</a> <a href="https://twitter.com/jessicadavis_?ref_src=twsrc%5Etfw">@jessicadavis_</a> <a href="https://twitter.com/apastorepiontti?ref_src=twsrc%5Etfw">@apastorepiontti</a> &amp; many more.<a href="https://t.co/Z7PtANnIE2">https://t.co/Z7PtANnIE2</a> <a href="https://t.co/zbkcpJn3xa">pic.twitter.com/zbkcpJn3xa</a></p>&mdash; Brennan (@jkbren) <a href="https://twitter.com/jkbren/status/1235981833755492353?ref_src=twsrc%5Etfw">March 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Dashboards
