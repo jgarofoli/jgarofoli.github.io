@@ -37,8 +37,6 @@ Relevant information about Covid-19. I am US based. Also note that I am not an e
 * [Washington Post](https://www.washingtonpost.com/coronavirus/?itid=hp__%3A)
 * [NY Times](https://nyti.ms/31jGhk2)
 
----
-
 ## What should you do?
 
 Updated: 2020-03-14
@@ -55,8 +53,6 @@ Updated: 2020-03-14
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“If you’re confused about what to do right now, you’re not alone.” Here’s some helpful advice from public health experts. It’s part of <a href="https://twitter.com/atlantic?ref_src=twsrc%5Etfw">@Atlantic</a>’s essential coverage of COVID-19, which is outside the paywall and available to all readers.<a href="https://t.co/gbXIi6QG5l">https://t.co/gbXIi6QG5l</a></p>&mdash; Laurene Powell Jobs (@laurenepowell) <a href="https://twitter.com/laurenepowell/status/1238653651603742720?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
 ## Naming
 
 Updated: 2020-03-10
@@ -65,15 +61,11 @@ Updated: 2020-03-10
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Quick tip on <a href="https://twitter.com/hashtag/COVID_19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID_19</a> terminology:<br>*Coronavirus: family of viruses that cause, eg, common cold, MERS, SARS<br>*Novel coronavirus: a newly discovered kind of coronavirus<br>*COVID-19: the disease caused by the new coronavirus<br>*SARS-CoV-2: official designation of virus causing COVID-19</p>&mdash; Katie Mack (@AstroKatie) <a href="https://twitter.com/AstroKatie/status/1234971681682116608?ref_src=twsrc%5Etfw">March 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
 ## Symptoms
 
 Updated: 2020-03-10
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Flu, Cold, or CoV? <a href="https://t.co/9BH6yq2mMO">pic.twitter.com/9BH6yq2mMO</a></p>&mdash; Elad Gil (@eladgil) <a href="https://twitter.com/eladgil/status/1236874958275403776?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
 
 ## Infections
 
@@ -102,8 +94,6 @@ I think the key thing to note here is that the preliminary mortality rate is 10-
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Share this with anyone who thinks they should still go to work when sick because &quot;the flu kills more people anyway&quot; <a href="https://t.co/Z7GqZahJmx">pic.twitter.com/Z7GqZahJmx</a></p>&mdash; Steve McCormick (@Quasilocal) <a href="https://twitter.com/Quasilocal/status/1238217740374151176?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
 ### Use caution when making predictions
 
 Some caution from a scientist in this area:
@@ -113,13 +103,9 @@ and the thread that the caution is about:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think most people aren’t aware of the risk of systemic healthcare failure due to <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> because they simply haven’t run the numbers yet. Let’s talk math. 1/n</p>&mdash; Liz Specht (@LizSpecht) <a href="https://twitter.com/LizSpecht/status/1236095180459003909?ref_src=twsrc%5Etfw">March 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
 ## Serious research
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">These scientists haven&#39;t slept in weeks as they worked to get this paper out. Such an important and timely contribution to our understanding of <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a>.<br><br>Led by a team at <a href="https://twitter.com/NUnetsi?ref_src=twsrc%5Etfw">@NUnetsi</a> incl. <a href="https://twitter.com/alexvespi?ref_src=twsrc%5Etfw">@alexvespi</a> <a href="https://twitter.com/mattk7?ref_src=twsrc%5Etfw">@mattk7</a> <a href="https://twitter.com/jessicadavis_?ref_src=twsrc%5Etfw">@jessicadavis_</a> <a href="https://twitter.com/apastorepiontti?ref_src=twsrc%5Etfw">@apastorepiontti</a> &amp; many more.<a href="https://t.co/Z7PtANnIE2">https://t.co/Z7PtANnIE2</a> <a href="https://t.co/zbkcpJn3xa">pic.twitter.com/zbkcpJn3xa</a></p>&mdash; Brennan (@jkbren) <a href="https://twitter.com/jkbren/status/1235981833755492353?ref_src=twsrc%5Etfw">March 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
 
 ## Dashboards
 
