@@ -36,6 +36,8 @@ Relevant information about Covid-19. I am US based. Also note that I am not an e
 
 ## Major News Sources
 
+The following news sources are credible and are sharing their covid-19 coverage free of charge.
+
 * [NPR](https://www.npr.org/series/812054919/the-coronavirus-crisis)
 * [Washington Post](https://www.washingtonpost.com/coronavirus/?itid=hp__%3A)
 * [NY Times](https://nyti.ms/31jGhk2)
