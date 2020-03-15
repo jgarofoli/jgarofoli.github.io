@@ -4,6 +4,7 @@ layout: covid
 reviseddate: 2020-03-14 18:40 PDT
 changelog: |
   2020-03-14:
+  - Added more to what you shoudl do section.
   - Move infection info to separate page, update spread chart to latest, add better formatting.
 
   2020-03-12:
@@ -40,9 +41,19 @@ Relevant information about Covid-19. I am US based. Also note that I am not an e
 
 ## What should you do?
 
-Updated: 2020-03-11
+Updated: 2020-03-14
+
+### Flatten the curve
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Timely and relevant protective measures that need to be taken to slow down (i.e., flattening the curve) spread of <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a> in our communities. Social distancing is one of those. <a href="https://t.co/KBflaUJDph">https://t.co/KBflaUJDph</a> by <a href="https://twitter.com/HelenBranswell?ref_src=twsrc%5Etfw">@HelenBranswell</a> <a href="https://twitter.com/hashtag/FlattenTheCurve?src=hash&amp;ref_src=twsrc%5Etfw">#FlattenTheCurve</a> <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> <a href="https://t.co/P2r7Iz0Xar">pic.twitter.com/P2r7Iz0Xar</a></p>&mdash; Luc Lalande (路客) (@LucLalande) <a href="https://twitter.com/LucLalande/status/1237705972258344960?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Wash your hands
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Washing in the name of...<br><br>On this occasion it&#39;s best you do what they tell ya <a href="https://t.co/unDdBh1HDh">pic.twitter.com/unDdBh1HDh</a></p>&mdash; RAGE AGAINST THE MACHINE (@RATM) <a href="https://twitter.com/RATM/status/1237036386886303744?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Social distancing
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“If you’re confused about what to do right now, you’re not alone.” Here’s some helpful advice from public health experts. It’s part of <a href="https://twitter.com/atlantic?ref_src=twsrc%5Etfw">@Atlantic</a>’s essential coverage of COVID-19, which is outside the paywall and available to all readers.<a href="https://t.co/gbXIi6QG5l">https://t.co/gbXIi6QG5l</a></p>&mdash; Laurene Powell Jobs (@laurenepowell) <a href="https://twitter.com/laurenepowell/status/1238653651603742720?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
