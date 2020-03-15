@@ -1,9 +1,10 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-15 13:40 PDT
+reviseddate: 2020-03-15 14:35 PDT
 changelog: |
   2020-03-15:
+  - Added another serious research article.
   - Updated latest infection chart.
 
   2020-03-14:
