@@ -94,6 +94,13 @@ Note that in California, as of 2020-3-13 evening, counties have begun to limit g
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here’s how long the coronavirus can stay in the air and on packages: <br>Plastic and stainless steel: 3 days<br>Cardboard: 1 day<br>Copper: 4 hours<br>Air: 3 hours<a href="https://t.co/JttFPTQ0td">https://t.co/JttFPTQ0td</a></p>&mdash; Katharine Gammon (@kategammon) <a href="https://twitter.com/kategammon/status/1237807183623938049?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Mortality rates
+
+This is preliminary still, and doesn't necessarily give the full picture of who can be infected.
+I have seen reports of many younger people in critical condition.
+I think the key thing to note here is that the preliminary mortality rate is 10-20x that of the flu for younger folks, and it is much higher for older people.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Share this with anyone who thinks they should still go to work when sick because &quot;the flu kills more people anyway&quot; <a href="https://t.co/Z7GqZahJmx">pic.twitter.com/Z7GqZahJmx</a></p>&mdash; Steve McCormick (@Quasilocal) <a href="https://twitter.com/Quasilocal/status/1238217740374151176?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>t 
 
 ---
 
