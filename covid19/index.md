@@ -100,7 +100,7 @@ This is preliminary still, and doesn't necessarily give the full picture of who 
 I have seen reports of many younger people in critical condition.
 I think the key thing to note here is that the preliminary mortality rate is 10-20x that of the flu for younger folks, and it is much higher for older people.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Share this with anyone who thinks they should still go to work when sick because &quot;the flu kills more people anyway&quot; <a href="https://t.co/Z7GqZahJmx">pic.twitter.com/Z7GqZahJmx</a></p>&mdash; Steve McCormick (@Quasilocal) <a href="https://twitter.com/Quasilocal/status/1238217740374151176?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>t 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Share this with anyone who thinks they should still go to work when sick because &quot;the flu kills more people anyway&quot; <a href="https://t.co/Z7GqZahJmx">pic.twitter.com/Z7GqZahJmx</a></p>&mdash; Steve McCormick (@Quasilocal) <a href="https://twitter.com/Quasilocal/status/1238217740374151176?ref_src=twsrc%5Etfw">March 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
