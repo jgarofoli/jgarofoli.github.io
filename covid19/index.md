@@ -1,9 +1,10 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-15 14:35 PDT
+reviseddate: 2020-03-15 14:40 PDT
 changelog: |
   2020-03-15:
+  - Added link to medRxiv.
   - Added another serious research article.
   - Updated latest infection chart.
 
@@ -117,6 +118,8 @@ and the thread that the caution is about:
 ## Serious research
 
 Updated: 2020-03-15
+
+Track recent medRxiv papers [here](https://connect.medrxiv.org/relate/content/181), 510 as of 2020-03-14.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">3rd ed of <a href="https://twitter.com/TianHuaiyu?ref_src=twsrc%5Etfw">@TianHuaiyu</a> <a href="https://twitter.com/MOUGK?ref_src=twsrc%5Etfw">@MOUGK</a> <a href="https://twitter.com/EvolveDotZoo?ref_src=twsrc%5Etfw">@EvolveDotZoo</a> et al. <a href="https://twitter.com/hashtag/China?src=hash&amp;ref_src=twsrc%5Etfw">#China</a> national emergency response averted 100,000s of <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> cases during the first 50 days of the epidemic <a href="https://t.co/zG7Q3h55Li">https://t.co/zG7Q3h55Li</a></p>&mdash; christopher dye (@chris0dye) <a href="https://twitter.com/chris0dye/status/1237757268189491206?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
