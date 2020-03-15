@@ -8,6 +8,7 @@ changelog: |
 
 # {{ page.title }}
 
+<a href="{% link covid19/index.md %}">Back to main covid page.</a>
 
 ## Previous charts
 
@@ -30,3 +31,7 @@ Corroborating those numbers (at least an upper limit very far above the numbers 
 ### 2020-03-11
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ I&#39;ve updated the data from yesterday&#39;s graphs, split them into Europe and World, and added more countries. Growth rates across Europe are remarkably similar, once a country has more than 100 cases. <a href="https://t.co/AzZIXTA9a7">pic.twitter.com/AzZIXTA9a7</a></p>&mdash; Mark Handley (@MarkJHandley) <a href="https://twitter.com/MarkJHandley/status/1237781162153717760?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+<a href="{% link covid19/index.md %}">Back to main covid page.</a>
