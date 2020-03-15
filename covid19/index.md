@@ -77,6 +77,11 @@ Updated: 2020-03-10
 Updated: 2020-03-15 13:40<br/>
 Additional information and history at <a href="{% link covid19/infections.md %}">infections page</a>.
 
+Some caveats around these data:
+
+1. This is early days. [Uneven testing](https://twitter.com/markwby/status/1238867143363567616?s=20) is skewing the results.
+2. Secondary sources, not directly confirmed cases of Covid, paint a different (worse) [picture](https://twitter.com/chrislhayes/status/1239265115108773890?s=20).
+
 ### Tracking the spread
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>Deaths and cases now all in our tracker page, plus other indicators: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/S5gyciMZ8x">pic.twitter.com/S5gyciMZ8x</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239276631560278022?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
