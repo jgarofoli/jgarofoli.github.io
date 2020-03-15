@@ -2,6 +2,8 @@
 title: Infections
 layout: covid
 changelog: |
+  2020-03-15:
+  - Update latest infection chart.
   2020-03-14:
   - Initial release.
 ---
@@ -9,8 +11,15 @@ changelog: |
 # {{ page.title }}
 
 <a href="{% link covid19/index.md %}">Back to main covid page.</a>
+## Latest chart
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>Deaths and cases now all in our tracker page, plus other indicators: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/S5gyciMZ8x">pic.twitter.com/S5gyciMZ8x</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239276631560278022?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Previous charts
+
+### 2020-03-14
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: today’s update of coronavirus case trajectory tracker introduces some improvements<br><br>• Malaysia is added, and appears on a similar path to Japan<br>• Iran &amp; Italy paths shifted by one day to better reflect when they reached 100 cases<br><br>Live version here: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/sXOBMoAk3Z">pic.twitter.com/sXOBMoAk3Z</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1238822732302815232?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2020-03-13
 

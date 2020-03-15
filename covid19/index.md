@@ -1,8 +1,11 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-14 18:40 PDT
+reviseddate: 2020-03-15 13:40 PDT
 changelog: |
+  2020-03-15:
+  - Updated latest infection chart.
+
   2020-03-14:
   - Added more to what you shoudl do section.
   - Move infection info to separate page, update spread chart to latest, add better formatting.
@@ -69,12 +72,12 @@ Updated: 2020-03-10
 
 ## Infections
 
-Updated: 2020-03-14 18:40<br/>
+Updated: 2020-03-15 13:40<br/>
 Additional information and history at <a href="{% link covid19/infections.md %}">infections page</a>.
 
 ### Tracking the spread
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: today’s update of coronavirus case trajectory tracker introduces some improvements<br><br>• Malaysia is added, and appears on a similar path to Japan<br>• Iran &amp; Italy paths shifted by one day to better reflect when they reached 100 cases<br><br>Live version here: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/sXOBMoAk3Z">pic.twitter.com/sXOBMoAk3Z</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1238822732302815232?ref_src=twsrc%5Etfw">March 14, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>Deaths and cases now all in our tracker page, plus other indicators: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/S5gyciMZ8x">pic.twitter.com/S5gyciMZ8x</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239276631560278022?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### For planning events.
 
