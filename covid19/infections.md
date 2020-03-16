@@ -2,6 +2,8 @@
 title: Infections
 layout: covid
 changelog: |
+  2020-03-16:
+  - Update infection chart.
   2020-03-15:
   - Update latest infection chart.
   2020-03-14:
@@ -13,9 +15,13 @@ changelog: |
 <a href="{% link covid19/index.md %}">Back to main covid page.</a>
 ## Latest chart
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>Deaths and cases now all in our tracker page, plus other indicators: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/S5gyciMZ8x">pic.twitter.com/S5gyciMZ8x</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239276631560278022?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>• Japan’s flatter curve now felt to be due to effective isolation of elderly, more than lower testing<br>• Underscores trend of Asian countries responding effectively<br><br>Keep up to date with latest developments here: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/UhriUHEIRU">pic.twitter.com/UhriUHEIRU</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239652881051136001?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Previous charts
+
+### 2020-03-15
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>Deaths and cases now all in our tracker page, plus other indicators: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/S5gyciMZ8x">pic.twitter.com/S5gyciMZ8x</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239276631560278022?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2020-03-14
 

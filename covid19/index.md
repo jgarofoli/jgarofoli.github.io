@@ -1,8 +1,11 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-15 14:40 PDT
+reviseddate: 2020-03-16 14:00 PDT
 changelog: |
+  2020-03-16:
+  - Updated the spread chart to latest.
+
   2020-03-15:
   - Added link to medRxiv.
   - Added another serious research article.
@@ -76,7 +79,7 @@ Updated: 2020-03-10
 
 ## Infections
 
-Updated: 2020-03-15 13:40<br/>
+Updated: 2020-03-16 14:00<br/>
 Additional information and history at <a href="{% link covid19/infections.md %}">infections page</a>.
 
 Some caveats around these data:
@@ -86,7 +89,7 @@ Some caveats around these data:
 
 ### Tracking the spread
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>Deaths and cases now all in our tracker page, plus other indicators: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/S5gyciMZ8x">pic.twitter.com/S5gyciMZ8x</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239276631560278022?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>• Japan’s flatter curve now felt to be due to effective isolation of elderly, more than lower testing<br>• Underscores trend of Asian countries responding effectively<br><br>Keep up to date with latest developments here: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/UhriUHEIRU">pic.twitter.com/UhriUHEIRU</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239652881051136001?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### For planning events.
 
