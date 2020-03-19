@@ -2,6 +2,8 @@
 title: Infections
 layout: covid
 changelog: |
+  2020-03-18:
+  - Update to latest infection chart from today.
   2020-03-16:
   - Update infection chart.
   2020-03-15:
@@ -15,9 +17,13 @@ changelog: |
 <a href="{% link covid19/index.md %}">Back to main covid page.</a>
 ## Latest chart
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>• Japan’s flatter curve now felt to be due to effective isolation of elderly, more than lower testing<br>• Underscores trend of Asian countries responding effectively<br><br>Keep up to date with latest developments here: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/UhriUHEIRU">pic.twitter.com/UhriUHEIRU</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239652881051136001?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories for major countries: <br><br>• US now tracking around 4 days behind Italy on numbers of confirmed cases<br>• Read more here about how social norms as well as official response have been key to flattening the curves in Asia: <a href="https://t.co/7A0ICnzEVm">https://t.co/7A0ICnzEVm</a> <a href="https://t.co/B4neZPW0Zh">pic.twitter.com/B4neZPW0Zh</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1240234671407063041?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Previous charts
+
+### 2020-03-16
+
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories: <br><br>• Japan’s flatter curve now felt to be due to effective isolation of elderly, more than lower testing<br>• Underscores trend of Asian countries responding effectively<br><br>Keep up to date with latest developments here: <a href="https://t.co/VcSZISFxzF">https://t.co/VcSZISFxzF</a> <a href="https://t.co/UhriUHEIRU">pic.twitter.com/UhriUHEIRU</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1239652881051136001?ref_src=twsrc%5Etfw">March 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2020-03-15
 
