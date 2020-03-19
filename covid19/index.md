@@ -1,9 +1,10 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-18 17:40 PDT
+reviseddate: 2020-03-18 17:45 PDT
 changelog: |
   2020-03-18:
+  - Added twitter list section.
   - Updated infection chart.
 
   2020-03-16:
@@ -49,6 +50,13 @@ The following news sources are credible and are sharing their covid-19 coverage 
 * [NPR](https://www.npr.org/series/812054919/the-coronavirus-crisis)
 * [Washington Post](https://www.washingtonpost.com/coronavirus/?itid=hp__%3A)
 * [NY Times](https://nyti.ms/31jGhk2)
+
+## Twitter
+
+I have been getting a lot of news quickly from Twitter. It is imperative that you
+know how to judge credible sources if you look at social media for your facts.
+
+* [COVID19 UPDATES](https://twitter.com/i/lists/1234883955142213632)
 
 ## What should you do?
 
