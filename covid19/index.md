@@ -1,9 +1,10 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-21 14:00 PDT
+reviseddate: 2020-03-21 14:05 PDT
 changelog: |
   2020-03-21:
+  - Change the hand washing tweet.
   - Update infection trajectory curve to latest.
   2020-03-18:
   - Added twitter list section.
@@ -64,7 +65,7 @@ Updated: 2020-03-14
 
 ### Wash your hands
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Washing in the name of...<br><br>On this occasion it&#39;s best you do what they tell ya <a href="https://t.co/unDdBh1HDh">pic.twitter.com/unDdBh1HDh</a></p>&mdash; RAGE AGAINST THE MACHINE (@RATM) <a href="https://twitter.com/RATM/status/1237036386886303744?ref_src=twsrc%5Etfw">March 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Correct technique to wash your hands for proper disinfection. <a href="https://twitter.com/hashtag/CoronavirusOutbreakindia?src=hash&amp;ref_src=twsrc%5Etfw">#CoronavirusOutbreakindia</a> <a href="https://twitter.com/hashtag/CoronaVirusUpdate?src=hash&amp;ref_src=twsrc%5Etfw">#CoronaVirusUpdate</a> <a href="https://twitter.com/hashtag/COVID?src=hash&amp;ref_src=twsrc%5Etfw">#COVID</a> <a href="https://twitter.com/hashtag/CoronaVirusUpdate?src=hash&amp;ref_src=twsrc%5Etfw">#CoronaVirusUpdate</a> <a href="https://t.co/1WeDwlCaF6">pic.twitter.com/1WeDwlCaF6</a></p>&mdash; Harjinder Singh Kukreja (@SinghLions) <a href="https://twitter.com/SinghLions/status/1240686550939136003?ref_src=twsrc%5Etfw">March 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Social distancing
 
