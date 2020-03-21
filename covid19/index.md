@@ -1,9 +1,10 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-21 14:05 PDT
+reviseddate: 2020-03-21 14:20 PDT
 changelog: |
   2020-03-21:
+  - Add text to "what should you do" section.
   - Change the hand washing tweet.
   - Update infection trajectory curve to latest.
 
@@ -64,7 +65,11 @@ know how to judge credible sources if you look at social media for your facts.
 
 ## What should you do?
 
-Updated: 2020-03-14
+Updated: 2020-03-21
+
+1. Keep space, social distancing.
+2. Wash your hands.
+3. Keep a temperature log, for early detection of fever.
 
 ### Flatten the curve
 
