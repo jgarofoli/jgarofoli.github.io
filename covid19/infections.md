@@ -4,12 +4,16 @@ layout: covid
 changelog: |
   2020-03-21:
   - Updated infection chart.
+
   2020-03-18:
   - Update to latest infection chart from today.
+
   2020-03-16:
   - Update infection chart.
+
   2020-03-15:
   - Update latest infection chart.
+
   2020-03-14:
   - Initial release.
 ---

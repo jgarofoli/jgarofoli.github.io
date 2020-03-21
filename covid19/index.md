@@ -6,21 +6,27 @@ changelog: |
   2020-03-21:
   - Change the hand washing tweet.
   - Update infection trajectory curve to latest.
+
   2020-03-18:
   - Added twitter list section.
   - Updated infection chart.
+
   2020-03-16:
   - Updated the spread chart to latest.
+
   2020-03-15:
   - Added link to medRxiv.
   - Added another serious research article.
   - Updated latest infection chart.
+
   2020-03-14:
   - Added more to what you shoudl do section.
   - Move infection info to separate page, update spread chart to latest, add better formatting.
+
   2020-03-12:
   - Replaced infection chart. Previous was [this](https://twitter.com/jburnmurdoch/status/1237737352879112194?s=20).
   - Update layout.
+
   2020-03-11:
   - Added another non-paywalled coverage link.
   - Added live dashboards, ugh.
@@ -30,6 +36,7 @@ changelog: |
   - Added famous US people as detector calculation.
   - Added environmental latency info.
   - Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20).
+
   2020-03-10:
   - First release.
 ---
