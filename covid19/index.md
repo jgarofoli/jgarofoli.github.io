@@ -1,28 +1,25 @@
 ---
 title: Covid-19
 layout: covid
-reviseddate: 2020-03-18 17:45 PDT
+reviseddate: 2020-03-21 14:00 PDT
 changelog: |
+  2020-03-21:
+  - Update infection trajectory curve to latest.
   2020-03-18:
   - Added twitter list section.
   - Updated infection chart.
-
   2020-03-16:
   - Updated the spread chart to latest.
-
   2020-03-15:
   - Added link to medRxiv.
   - Added another serious research article.
   - Updated latest infection chart.
-
   2020-03-14:
   - Added more to what you shoudl do section.
   - Move infection info to separate page, update spread chart to latest, add better formatting.
-
   2020-03-12:
   - Replaced infection chart. Previous was [this](https://twitter.com/jburnmurdoch/status/1237737352879112194?s=20).
   - Update layout.
-
   2020-03-11:
   - Added another non-paywalled coverage link.
   - Added live dashboards, ugh.
@@ -32,7 +29,6 @@ changelog: |
   - Added famous US people as detector calculation.
   - Added environmental latency info.
   - Updated empirical tweet. Old version was [this](https://twitter.com/MarkJHandley/status/1237144386569416712?s=20).
-
   2020-03-10:
   - First release.
 ---
@@ -90,7 +86,7 @@ Updated: 2020-03-10
 
 ## Infections
 
-Updated: 2020-03-18 17:38<br/>
+Updated: 2020-03-21 14:00<br/>
 Additional information and history at <a href="{% link covid19/infections.md %}">infections page</a>.
 
 Some caveats around these data:
@@ -100,7 +96,7 @@ Some caveats around these data:
 
 ### Tracking the spread
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories for major countries: <br><br>• US now tracking around 4 days behind Italy on numbers of confirmed cases<br>• Read more here about how social norms as well as official response have been key to flattening the curves in Asia: <a href="https://t.co/7A0ICnzEVm">https://t.co/7A0ICnzEVm</a> <a href="https://t.co/B4neZPW0Zh">pic.twitter.com/B4neZPW0Zh</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1240234671407063041?ref_src=twsrc%5Etfw">March 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Here are the latest case trajectories for major countries: <br><br>• US case-curve has overtaken China’s<br>• Italy-scale outbreaks remain inevitable for most countries. Lockdowns and test-and-trace are essential, everywhere.<br><br>• Read more about test-and-trace: <a href="https://t.co/7A0ICnzEVm">https://t.co/7A0ICnzEVm</a> <a href="https://t.co/9u9Ufv9ykk">pic.twitter.com/9u9Ufv9ykk</a></p>&mdash; John Burn-Murdoch (@jburnmurdoch) <a href="https://twitter.com/jburnmurdoch/status/1241464031958970368?ref_src=twsrc%5Etfw">March 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### For planning events.
 
