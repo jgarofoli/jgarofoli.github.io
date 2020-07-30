@@ -1,12 +1,10 @@
 ---
-title: Annual Letter
+title: 2020
 layout: annual
 changelog: |
   2020-07-28:
   - First release. Skeleton content, style, layout, etc.
 ---
-# 2020
-
 What a year, eh?
 
 This is the inaugural year of our annual letter. Welcome!
